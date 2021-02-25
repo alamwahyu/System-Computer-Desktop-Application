@@ -1,0 +1,28 @@
+C:\Users\Mahasiswa\source\repos\form2\form2\bin\Debug\form2.exe.config
+C:\Users\Mahasiswa\source\repos\form2\form2\bin\Debug\form2.exe
+C:\Users\Mahasiswa\source\repos\form2\form2\bin\Debug\form2.pdb
+C:\Users\Mahasiswa\source\repos\form2\form2\bin\Debug\form2.xml
+C:\Users\Mahasiswa\source\repos\form2\form2\obj\Debug\form2.vbprojAssemblyReference.cache
+C:\Users\Mahasiswa\source\repos\form2\form2\obj\Debug\form2.Form1.resources
+C:\Users\Mahasiswa\source\repos\form2\form2\obj\Debug\form2.Resources.resources
+C:\Users\Mahasiswa\source\repos\form2\form2\obj\Debug\form2.vbproj.GenerateResource.cache
+C:\Users\Mahasiswa\source\repos\form2\form2\obj\Debug\form2.vbproj.CoreCompileInputs.cache
+C:\Users\Mahasiswa\source\repos\form2\form2\obj\Debug\form2.exe
+C:\Users\Mahasiswa\source\repos\form2\form2\obj\Debug\form2.xml
+C:\Users\Mahasiswa\source\repos\form2\form2\obj\Debug\form2.pdb
+C:\Users\Mahasiswa\source\repos\form2\form2\obj\Debug\form2.Form2.resources
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\bin\Debug\form2.exe.config
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\obj\Debug\form2.exe
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\obj\Debug\form2.xml
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\obj\Debug\form2.pdb
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\bin\Debug\form2.exe
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\bin\Debug\form2.pdb
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\bin\Debug\form2.xml
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\obj\Debug\form2.vbprojResolveAssemblyReference.cache
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\obj\Debug\form2.Resources.resources
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\obj\Debug\form2.vbproj.GenerateResource.Cache
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\obj\Debug\form2.FormLogin.resources
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\obj\Debug\form2.FormInfoIP.resources
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\obj\Debug\form2.FormMenuMaster.resources
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\obj\Debug\form2.FormInfoSistem.resources
+D:\TUGAS ALAM WAHYU\SEMESTER 5\PEMROGRAMAN SISTEM\form2\form2\obj\Debug\form2.FormProtokol.resources
