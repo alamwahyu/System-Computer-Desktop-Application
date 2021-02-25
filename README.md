@@ -11,6 +11,7 @@ FEATURE :
 7. About Me
 8. Message
 9. Media Player Remote
+10. Performance Viewers
 
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/52119780/109090393-7851af00-7745-11eb-9c01-9dac287f5a4c.png)
